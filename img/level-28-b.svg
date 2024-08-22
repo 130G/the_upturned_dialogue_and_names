@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="43 -119.5 1200 700" xmlns="http://www.w3.org/2000/svg">
+  <marker orient="auto" markerHeight="12" markerWidth="12" markerUnits="userSpaceOnUse" refY="5" refX="6" viewBox="0 0 10 10" class="marker flowchart-elk" id="graph-div_flowchart-elk-pointEnd" style="fill: rgb(211, 211, 211); font-family: 'trebuchet ms', verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; stroke: rgb(211, 211, 211);">
+    <path style="stroke-width: 1px; stroke-dasharray: 1px, 0px;" class="arrowMarkerPath" d="M 0 0 L 10 5 L 0 10 z"/>
+  </marker>
+  <g style="" transform="matrix(1.6103709936141966, 0, 0, 1.6103709936141966, -1812.7845458984375, -140.69052124023443)">
+    <g transform="matrix(1, 0, 0, 1, 0, -444.906616)">
+      <g transform="matrix(1, 0, 0, 1, 1356.168091, 645.906616)" data-id="EVENT_7193" data-node="true" id="flowchart-EVENT_7193-48390" class="node default classEvent flowchart-label">
+        <polygon style="border-block-color: rgb(0, 0, 0); border-color: rgb(0, 0, 0); border-inline-color: rgb(0, 0, 0); caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); column-rule-color: rgb(0, 0, 0); fill: rgb(255, 217, 102); font-family: 'trebuchet ms', verdana, arial, sans-serif; font-size: 16px; font-weight: 700; line-height: 25.6px; outline-color: rgb(0, 0, 0); padding-block: 5px; padding: 5px; padding-inline: 5px; stroke: rgb(193, 98, 0); stroke-width: 5px; text-decoration: none solid rgb(0, 0, 0); text-emphasis-color: rgb(0, 0, 0); -webkit-text-fill-color: rgb(0, 0, 0); -webkit-text-stroke-color: rgb(0, 0, 0);" transform="translate(-71.875,19.5)" class="label-container" points="-19.5,0 143.75,0 143.75,-39 -19.5,-39 0,-19.5"/>
+        <g transform="translate(-64.375, -12)" style="border-block-color: rgb(0, 0, 0); border-color: rgb(0, 0, 0); border-inline-color: rgb(0, 0, 0); caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); column-rule-color: rgb(0, 0, 0); fill: rgb(255, 217, 102); font-family: 'trebuchet ms', verdana, arial, sans-serif; font-size: 16px; font-weight: 700; line-height: 25.6px; outline-color: rgb(0, 0, 0); padding-block: 5px; padding: 5px; padding-inline: 5px; stroke: rgb(193, 98, 0); stroke-width: 5px; text-align: center; text-decoration: none solid rgb(0, 0, 0); text-emphasis-color: rgb(0, 0, 0); -webkit-text-fill-color: rgb(0, 0, 0); -webkit-text-stroke-color: rgb(0, 0, 0);" class="label">
+          <rect style="fill: rgb(31, 32, 32); stroke: rgb(129, 177, 219); stroke-width: 1px;"/>
+          <foreignObject height="24" width="128.75">
+            <div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">
+              <span class="nodeLabel" style="padding-block: 5px; padding: 5px; padding-inline: 5px;">Elevator breaks</span>
+            </div>
+          </foreignObject>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 1356.168091, 704.906616)" data-id="DIALOG_7193" data-node="true" id="flowchart-DIALOG_7193-48395" class="node default classDialog flowchart-label">
+        <rect height="39" width="172.5" y="-19.5" x="-86.25" ry="5" rx="5" style="fill: rgb(13, 0, 50); font-family: 'trebuchet ms', verdana, arial, sans-serif; font-size: 16px; font-weight: 700; line-height: 25.6px; padding-block: 5px; padding: 5px; padding-inline: 5px; stroke: rgb(42, 0, 168); stroke-width: 5px;" class="basic label-container"/>
+        <g transform="translate(-78.75, -12)" style="border-block-color: rgb(204, 204, 204); border-color: rgb(204, 204, 204); border-inline-color: rgb(204, 204, 204); caret-color: rgb(204, 204, 204); color: rgb(204, 204, 204); column-rule-color: rgb(204, 204, 204); fill: rgb(13, 0, 50); font-family: 'trebuchet ms', verdana, arial, sans-serif; font-size: 16px; font-weight: 700; line-height: 25.6px; outline-color: rgb(204, 204, 204); padding-block: 5px; padding: 5px; padding-inline: 5px; stroke: rgb(42, 0, 168); stroke-width: 5px; text-align: center; text-decoration: none solid rgb(204, 204, 204); text-emphasis-color: rgb(204, 204, 204); -webkit-text-fill-color: rgb(204, 204, 204); -webkit-text-stroke-color: rgb(204, 204, 204);" class="label">
+          <rect style="fill: rgb(31, 32, 32); stroke: rgb(129, 177, 219); stroke-width: 1px;"/>
+          <foreignObject height="24" width="157.5">
+            <div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">
+              <span class="nodeLabel" style="padding-block: 5px; padding: 5px; padding-inline: 5px;">Opening the doors!</span>
+            </div>
+          </foreignObject>
+        </g>
+      </g>
+      <path fill="none" class="path flowchart-link LS-EVENT_7193 LE-DIALOG_7193" d="M 1356.235 665.438 L 1356.234 685.436" style="font-family: 'trebuchet ms', verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; stroke: rgb(211, 211, 211); stroke-width: 2px; transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(1, 0.000001, -0.000001, 1, 0, 0)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 21.75, -444.906616)">
+      <g transform="matrix(1, 0, 0, 1, 1632.793091, 594.406616)" data-id="EVENT_7234" data-node="true" id="flowchart-EVENT_7234-48391" class="node default classEvent flowchart-label">
+        <polygon style="border-block-color: rgb(0, 0, 0); border-color: rgb(0, 0, 0); border-inline-color: rgb(0, 0, 0); caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); column-rule-color: rgb(0, 0, 0); fill: rgb(255, 217, 102); font-family: 'trebuchet ms', verdana, arial, sans-serif; font-size: 16px; font-weight: 700; line-height: 25.6px; outline-color: rgb(0, 0, 0); padding-block: 5px; padding: 5px; padding-inline: 5px; stroke: rgb(193, 98, 0); stroke-width: 5px; text-decoration: none solid rgb(0, 0, 0); text-emphasis-color: rgb(0, 0, 0); -webkit-text-fill-color: rgb(0, 0, 0); -webkit-text-stroke-color: rgb(0, 0, 0);" transform="translate(-130.625,31.5)" class="label-container" points="-31.5,0 261.25,0 261.25,-63 -31.5,-63 0,-31.5"/>
+        <g transform="translate(-123.125, -24)" style="border-block-color: rgb(0, 0, 0); border-color: rgb(0, 0, 0); border-inline-color: rgb(0, 0, 0); caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); column-rule-color: rgb(0, 0, 0); fill: rgb(255, 217, 102); font-family: 'trebuchet ms', verdana, arial, sans-serif; font-size: 16px; font-weight: 700; line-height: 25.6px; outline-color: rgb(0, 0, 0); padding-block: 5px; padding: 5px; padding-inline: 5px; stroke: rgb(193, 98, 0); stroke-width: 5px; text-align: center; text-decoration: none solid rgb(0, 0, 0); text-emphasis-color: rgb(0, 0, 0); -webkit-text-fill-color: rgb(0, 0, 0); -webkit-text-stroke-color: rgb(0, 0, 0);" class="label">
+          <rect style="fill: rgb(31, 32, 32); stroke: rgb(129, 177, 219); stroke-width: 1px;"/>
+          <foreignObject height="48" width="246.25">
+            <div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">
+              <span class="nodeLabel" style="padding-block: 5px; padding: 5px; padding-inline: 5px;">Player jumps on the last spring                <br />
+before the power plug</span>
+            </div>
+          </foreignObject>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 1630.355591, 768.406616)" data-id="DIALOG_7144" data-node="true" id="flowchart-DIALOG_7144-48392" class="node default classDialog flowchart-label">
+        <rect height="39" width="236.25" y="-19.5" x="-118.125" ry="5" rx="5" style="fill: rgb(13, 0, 50); font-family: 'trebuchet ms', verdana, arial, sans-serif; font-size: 16px; font-weight: 700; line-height: 25.6px; padding-block: 5px; padding: 5px; padding-inline: 5px; stroke: rgb(42, 0, 168); stroke-width: 5px;" class="basic label-container"/>
+        <g transform="translate(-110.625, -12)" style="border-block-color: rgb(204, 204, 204); border-color: rgb(204, 204, 204); border-inline-color: rgb(204, 204, 204); caret-color: rgb(204, 204, 204); color: rgb(204, 204, 204); column-rule-color: rgb(204, 204, 204); fill: rgb(13, 0, 50); font-family: 'trebuchet ms', verdana, arial, sans-serif; font-size: 16px; font-weight: 700; line-height: 25.6px; outline-color: rgb(204, 204, 204); padding-block: 5px; padding: 5px; padding-inline: 5px; stroke: rgb(42, 0, 168); stroke-width: 5px; text-align: center; text-decoration: none solid rgb(204, 204, 204); text-emphasis-color: rgb(204, 204, 204); -webkit-text-fill-color: rgb(204, 204, 204); -webkit-text-stroke-color: rgb(204, 204, 204);" class="label">
+          <rect style="fill: rgb(31, 32, 32); stroke: rgb(129, 177, 219); stroke-width: 1px;"/>
+          <foreignObject height="24" width="221.25">
+            <div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">
+              <span class="nodeLabel" style="padding-block: 5px; padding: 5px; padding-inline: 5px;">Bbbbbbbbbbbbbbbb b b b.</span>
+            </div>
+          </foreignObject>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 1632.793091, 665.406616)" data-id="DIALOG_7234" data-node="true" id="flowchart-DIALOG_7234-48393" class="node default classDialog flowchart-label">
+        <rect height="39" width="121.25" y="-19.5" x="-60.625" ry="5" rx="5" style="fill: rgb(13, 0, 50); font-family: 'trebuchet ms', verdana, arial, sans-serif; font-size: 16px; font-weight: 700; line-height: 25.6px; padding-block: 5px; padding: 5px; padding-inline: 5px; stroke: rgb(42, 0, 168); stroke-width: 5px;" class="basic label-container"/>
+        <g transform="translate(-53.125, -12)" style="border-block-color: rgb(204, 204, 204); border-color: rgb(204, 204, 204); border-inline-color: rgb(204, 204, 204); caret-color: rgb(204, 204, 204); color: rgb(204, 204, 204); column-rule-color: rgb(204, 204, 204); fill: rgb(13, 0, 50); font-family: 'trebuchet ms', verdana, arial, sans-serif; font-size: 16px; font-weight: 700; line-height: 25.6px; outline-color: rgb(204, 204, 204); padding-block: 5px; padding: 5px; padding-inline: 5px; stroke: rgb(42, 0, 168); stroke-width: 5px; text-align: center; text-decoration: none solid rgb(204, 204, 204); text-emphasis-color: rgb(204, 204, 204); -webkit-text-fill-color: rgb(204, 204, 204); -webkit-text-stroke-color: rgb(204, 204, 204);" class="label">
+          <rect style="fill: rgb(31, 32, 32); stroke: rgb(129, 177, 219); stroke-width: 1px;"/>
+          <foreignObject height="24" width="106.25">
+            <div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">
+              <span class="nodeLabel" style="padding-block: 5px; padding: 5px; padding-inline: 5px;">Bbbbbbbbb.</span>
+            </div>
+          </foreignObject>
+        </g>
+      </g>
+      <path fill="none" class="path flowchart-link LS-EVENT_7234 LE-DIALOG_7234" d="M 1632.793 625.907 L 1632.792 645.907" style="font-family: 'trebuchet ms', verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; stroke: rgb(211, 211, 211); stroke-width: 2px; transform-box: fill-box; transform-origin: 50% 50%;"/>
+      <path marker-end="url(#graph-div_flowchart-elk-pointEnd)" fill="none" class="path flowchart-link LS-DIALOG_7234 LE-DIALOG_7144" d="M 1663.106 684.907 L 1663.106 694.907 L 1704.793 694.907 L 1704.793 738.907 L 1689.418 738.907 L 1689.418 743.607" style="font-family: 'trebuchet ms', verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; stroke: rgb(211, 211, 211); stroke-width: 2px;"/>
+      <g transform="matrix(1, 0, 0, 1, 1668.793091, 704.906616)" class="edgeLabel" style="background-color: rgb(88, 88, 88); fill: rgb(204, 204, 204); font-family: 'trebuchet ms', verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; text-align: center;">
+        <foreignObject height="24" width="71.25">
+          <div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">
+            <span class="edgeLabel" style="background-color: rgb(88, 88, 88); border-block-color: rgb(204, 204, 204); border-color: rgb(204, 204, 204); border-inline-color: rgb(204, 204, 204); caret-color: rgb(204, 204, 204); color: rgb(204, 204, 204); column-rule-color: rgb(204, 204, 204); fill: rgb(204, 204, 204); font-family: 'trebuchet ms', verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; outline-color: rgb(204, 204, 204); text-align: center; text-decoration: none solid rgb(204, 204, 204); text-emphasis-color: rgb(204, 204, 204); -webkit-text-fill-color: rgb(204, 204, 204); -webkit-text-stroke-color: rgb(204, 204, 204);">Not now!!</span>
+          </div>
+        </foreignObject>
+      </g>
+      <path marker-end="url(#graph-div_flowchart-elk-pointEnd)" fill="none" class="path flowchart-link LS-DIALOG_7234 LE-DIALOG_7144" d="M 1632.793 684.907 L 1632.793 738.907 L 1630.356 738.907 L 1630.356 743.607" style="font-family: 'trebuchet ms', verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; stroke: rgb(211, 211, 211); stroke-width: 2px;"/>
+      <g transform="matrix(1, 0, 0, 1, 1606.293091, 704.906616)" class="edgeLabel" style="background-color: rgb(88, 88, 88); fill: rgb(204, 204, 204); font-family: 'trebuchet ms', verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; text-align: center;">
+        <foreignObject height="24" width="52.5">
+          <div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">
+            <span class="edgeLabel" style="background-color: rgb(88, 88, 88); border-block-color: rgb(204, 204, 204); border-color: rgb(204, 204, 204); border-inline-color: rgb(204, 204, 204); caret-color: rgb(204, 204, 204); color: rgb(204, 204, 204); column-rule-color: rgb(204, 204, 204); fill: rgb(204, 204, 204); font-family: 'trebuchet ms', verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; outline-color: rgb(204, 204, 204); text-align: center; text-decoration: none solid rgb(204, 204, 204); text-emphasis-color: rgb(204, 204, 204); -webkit-text-fill-color: rgb(204, 204, 204); -webkit-text-stroke-color: rgb(204, 204, 204);">Please.</span>
+          </div>
+        </foreignObject>
+      </g>
+      <path marker-end="url(#graph-div_flowchart-elk-pointEnd)" fill="none" class="path flowchart-link LS-DIALOG_7234 LE-DIALOG_7144" d="M 1602.481 684.907 L 1602.481 694.907 L 1571.293 694.907 L 1571.293 743.607" style="font-family: 'trebuchet ms', verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; stroke: rgb(211, 211, 211); stroke-width: 2px;"/>
+      <g transform="matrix(1, 0, 0, 1, 1546.293091, 704.906616)" class="edgeLabel" style="background-color: rgb(88, 88, 88); fill: rgb(204, 204, 204); font-family: 'trebuchet ms', verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; text-align: center;">
+        <foreignObject height="24" width="50">
+          <div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">
+            <span class="edgeLabel" style="background-color: rgb(88, 88, 88); border-block-color: rgb(204, 204, 204); border-color: rgb(204, 204, 204); border-inline-color: rgb(204, 204, 204); caret-color: rgb(204, 204, 204); color: rgb(204, 204, 204); column-rule-color: rgb(204, 204, 204); fill: rgb(204, 204, 204); font-family: 'trebuchet ms', verdana, arial, sans-serif; font-size: 16px; line-height: 25.6px; outline-color: rgb(204, 204, 204); text-align: center; text-decoration: none solid rgb(204, 204, 204); text-emphasis-color: rgb(204, 204, 204); -webkit-text-fill-color: rgb(204, 204, 204); -webkit-text-stroke-color: rgb(204, 204, 204);">[Sigh.]</span>
+          </div>
+        </foreignObject>
+      </g>
+    </g>
+  </g>
+</svg>
